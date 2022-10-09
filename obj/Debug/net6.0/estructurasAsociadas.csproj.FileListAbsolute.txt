@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\bin\Debug\net6.0\estructurasAsociadas.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\bin\Debug\net6.0\estructurasAsociadas.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\bin\Debug\net6.0\estructurasAsociadas.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\bin\Debug\net6.0\estructurasAsociadas.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\bin\Debug\net6.0\estructurasAsociadas.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\refint\estructurasAsociadas.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\estructurasAsociadas.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\estructurasAsociadas\obj\Debug\net6.0\ref\estructurasAsociadas.dll
